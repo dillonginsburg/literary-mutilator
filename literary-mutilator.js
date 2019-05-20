@@ -6,5 +6,7 @@ function tier1(){
 
 function tier2() {
 	document.body.innerHTML = document.body.innerHTML.replace("Lorem ipsum dolor sit amet, consectetur adipiscing elit", "This sentence is real now");
-	window.find("This is a real sentence, now.");
+	window.find("This sentence is real now.");
+	window.find("This sentence is real now.");
+	window.find("This sentence is real now.");
 }
